@@ -1,0 +1,41 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<?xml-stylesheet type = "text/xsl" ?>
+<!DOCTYPE note SYSTEM "xmlDocument.dtd">
+
+<!--information on a person-->
+	
+
+<Person>
+	<name>Joe</name>
+	<job>Programmer</job>
+	<department>Engineering</department>
+	<cubicle>5E</cubicle>
+</Person>
+
+<Person>
+	<name>Erin</name>
+	<job>Designer</job>
+	<department>Marketing</department>
+	<cubicle>9M</cubicle>
+</Person>
+
+<Person>
+	<name>Mellisa</name>
+	<job>Designer</job>
+	<department>Human resource</department>
+	<cubicle>8H</cubicle>
+</Person>
+
+<Person>
+	<name>Craig</name>
+	<job>Administrator</job>
+	<department>Engineering</department>
+	<cubicle>4E</cubicle>
+</Person>
+
+<Person>
+	<name>Corinne</name>
+	<job>Programmer</job>
+	<department>Technical support</department>
+	<cubicle>19T</cubicle>
+</Person>

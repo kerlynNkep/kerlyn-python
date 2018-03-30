@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<?xml-stylesheet type = "text/xsl" ?>
+
+<!--Nuitrition facts for Grandma Deitel's cookies-->
+
+<product name = "Cookies">
+
+	<servingsize> 1 Package </servingsize>
+	<Calories>
+		<total>260 Calories</total>
+		<fat> 100 Calories</fat>
+	</Calories>
+	<fat>
+		<total>11 grams</total>
+		<saturated>2 grams</saturated>
+	</fat>
+	<Cholesterol>5 mg</Cholesterol>
+	<Soduim>210mg</Soduim>
+	<Carbohydrate>
+		<total>36 grams</total>
+		<fiber>2 grams</fiber>
+		<sugar>15 grams</sugar>
+	</Carbohydrate>
+	<protein>5 grams </protein>
+
+</product>
+

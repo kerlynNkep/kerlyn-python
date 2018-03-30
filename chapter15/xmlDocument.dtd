@@ -1,0 +1,7 @@
+<!--DTD document for xmlDocment.xml -->
+
+<!ELEMENT person(name, job, department,cubicle) >
+<!ElEMENT name (#PCDATA) >
+<!ElEMENT job (#PCDATA) >
+<!ElEMENT department (#PCDATA) >
+<!ElEMENT cubicle (#PCDATA) >
